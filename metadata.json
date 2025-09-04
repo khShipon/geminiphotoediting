@@ -1,0 +1,5 @@
+{
+  "name": "AI Photo Editor",
+  "description": "An AI-powered image editor with a classic Photoshop-like interface. Generate designs with AI and then manually edit every element, from text to shapes. Export your creations as PNG or JPG.",
+  "requestFramePermissions": []
+}
